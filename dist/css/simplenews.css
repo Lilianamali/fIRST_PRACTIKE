@@ -1,11 +1,13 @@
-h1 {
-
-    font-family: 'Times New Roman', Times, serif;
-    color: black;
-
-    }
-.heading
-{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: black;
+.box {
+    border-bottom: 1px solid rgb(129, 116, 116);
+}
+.main {
+    width: 95%;
+    
+}
+.box p {
+    display: inline-block;
+}
+.left {
+    width: 93%;
 }
