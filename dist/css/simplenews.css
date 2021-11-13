@@ -2,12 +2,24 @@
     border-bottom: 1px solid rgb(129, 116, 116);
 }
 .main {
-    width: 95%;
+    width: 90%;
     
 }
 .box p {
     display: inline-block;
 }
 .left {
-    width: 93%;
+    width: 90%;
+}
+.footer {
+    border-top: 1px solid rgb(133, 126, 123);
+}
+h1,
+h2,
+.left,
+.right {
+    text-transform: capitalize;
+}
+.left {
+    font-weight: bold;
 }
