@@ -1,13 +1,51 @@
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-align: center;
+    color: gray;
+    text-transform: uppercase;
+}
+a {
+    text-decoration-line: none;
+    color: white;
+}
 .box2 {
     display: inline-block;
-    width: 35%;
-    height: 30px;
+    width: 10%;
+    height: 90%;
     background-color: blue;
-
+    background-color:tomato;
+}
+.blue1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    text-transform: none;
+    color: wheat;
+}
+.blue2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: wheat;
+}
+.blue3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: right;
+    text-transform: capitalize;
+    color: wheat;
 }
 .box {
     background-color: blue;
+    width: 95%;
+    height: 50%;
 
+}
+.box3 {
+    
 }
 .box p {
     display: inline-block;
@@ -17,17 +55,18 @@
 
 }
 .YuorHeadline {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
     text-align: center;
-    color: lawngreen;
+    color: rgb(152, 155, 148);
     text-transform: uppercase;
 
 }
 .image {
-    height: 100px;
-    width: 100px;
+    /* height:10%; */
+    width: 10%;
     display: block;
+   
 
 }
 .coupon {
